@@ -8,7 +8,7 @@ Feel free to view it online or download it.
 ## 🔗 Quick Links
 
 - 📥 [Download Resume (PDF)](./resume.pdf)
-- 🌐 [View Resume on GitHub](https://gunjankumar55.github.io/resume/)
+- 🌐 [View Resume on GitHub](https://gunjankumar55.github.io/resume)
 - 💼 [Visit My Portfolio](https://gunjankumar55.github.io/Gunjan_Portfolio/)
 
 ---
